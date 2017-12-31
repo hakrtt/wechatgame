@@ -1,12 +1,13 @@
 微信跳一跳 AI思路和原理参考 https://github.com/wangshub/wechat_jump_game 自动跳跃算法细节参考
 转自https://github.com/faceair/youjumpijump
 用 Golang 重新实现是期望跨平台，方便打包给普通用户使用。代码逻辑精简过，运行速度会有提升
+
 ### 步骤
  **1.Android手机连接上电脑后开启调试模式**
  
  **2.进入微信打开微信跳一跳，点击开始游戏**
  
- **3.运行本 jumpAI-windows-amd64.exe**
+ **3.运行本 jumpAI-windows-amd64.exe(下载解压运行本程序)**
 
 跳跃系数目前推荐设为 2.04，截图后会>**1.Android手机连接上电脑后开启调试模式**
  先 resize 成 720p 的图片然后再找点和跳跃。
